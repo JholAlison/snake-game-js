@@ -2,6 +2,9 @@
 Clássico jogo da cobrinha (bem simples) em JavaScript.
 <img src="sprite-snake.jpg" alt="drawing" width="50"/>
 
+integrantes da equipe: Jhol Alisson 922-B
+
+link do jogo 2.0 no heroku: https://snakegamerjs.herokuapp.com/
 
 <!-- ## Rodando localmente 1 (apenas para alunos usando o computador)
 Você pode rodar o jogo abrindo o arquivo [_views/pages/jogo.html_](views/pages/jogo.html) com o seu navegador.
